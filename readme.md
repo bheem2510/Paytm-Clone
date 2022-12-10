@@ -1,6 +1,6 @@
 # Hi, Welcome Friends
 
-I'm Ashutosh Singh, Fresher Software Developer learning and trying to build new things everyday.
+I'm Bheem, Fresher Software Developer learning and trying to build new things everyday.
 
 # Project Name : Product Homepage
 
@@ -16,4 +16,3 @@ In this project I have created a Homepage for a Paytm unsing different technolog
 
 ![Screenshot](./images/Paytm%20SS.jpeg)
 
-[Live Link](https://creative-otter-f63d86.netlify.app/)
